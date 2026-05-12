@@ -1,0 +1,363 @@
+____________________________________________________________________________________
+
+Mohammad Sardar Mamun
+House-173/Cha (2nd Floor),
+East Rampura, Dhaka-1219,
+Cell: 01794505346
+Email: unisense80@gmail.com
+
+___________________________________________________________________________________
+Career Objectives: Getting me in a dynamic organizational environment where honesty, creativity,
+punctuality and diligence are the corner stones for success. Enthusiastic to face any challenges to accomplish my
+responsibilities and achieve goal.
+My skill-set refers to the ability to administer Database, professionally manage and troubleshoot complex IT
+infrastructure, company website management, handle Business and MIS Applications, handle Data Center
+Operations, manage IT equipment, manage vendor issues, support Office End-users and perform all other IT
+management tasks.
+The career flourished in Financial and IT Services domain; in firms those are reputed and of mainstream.
+___________________________________________________________________________________________________
+
+Specialized ICT Education
+Web Scraping Using BeautifulSoup (Python 3.9)
+Institute:
+: Finxter Computer Science Academy, Germany (Remote Program)
+Institute Overview : World’s one top ranked Computer Science and Python Academy
+Year
+: March, 2022
+Course Detail
+: Python basics, Python advanced features, Data containers, List comprehension, Iteration,
+HTM5, CSS3, DOM Model and Web Scraping using BeautifulSoup
+Result Grade
+: Professional
+
+Certified in Python Programming (Python 3.7)
+Institute:
+: Finxter Computer Science Academy, Germany (Online Program)
+Institute Overview : World’s top ranked Computer Science and Python Academy
+Year
+: Feb, 2021
+Course Detail
+: Python basics, Advanced Python features, Algorithms, complexity analysis and
+Debugging, Web Scraping, Python Scripting, NumPy and Python RegEx.
+Result Grade
+: Professional Level
+
+Web Development with Django (Python 3.7)
+Institute
+: BUET (Bangladesh University of Engineering and Technology)
+Year
+: 2019
+Course Detail : Python3 Basics, MVC, Database Set up and Administration, URLs, Designing Templates,
+Namespace, Navigation Menu, Form Processing, Generic Views, File Uploads, Bootstrap and
+Static File Handling, Cookies, Sessions, Cashing, Deployment and REST API.
+Result
+: Course completed.
+
+1
+
+____________________________________________________________________________________
+
+Specialized ICT Education
+Database Management and Administration (DMA)
+Institute
+Course Detail
+Year
+Result
+
+: BUET (Bangladesh University of Engineering and Technology)
+: Oracle 11G R2 Complete Database Management and Administration.
+: 2018
+: Certified
+
+Web Development Specialist Program (Diploma, One Year)
+Institute
+Year
+Course Detail
+
+
+
+
+
+: PeopleNTech Institute of Information Technology, USA (Bangladesh Campus)
+: Certified in 2015
+:
+Core Technologies: HTML5, CSS3, Bootstrap, JavaScript, PHP & MySQL
+Framework Implementations
+CMS Implementations: WordPress (WooCommerce) and OpenCart
+Web Based App Development (PHP & MySQL)
+
+Result: Certified
+
+Advanced Search Engine Optimization (SEO)
+Institute
+Year
+Course Detail
+
+
+
+
+
+
+
+
+
+: Devsteam Institute, Multiplan Center, Elephant Road, Dhaka, Bangladesh.
+: 2012
+:
+Search Engine Analysis,
+SEO Algorithms
+On-site & Off-site Optimization
+Keyword Research
+Utilization of SEO Tools- Web Analytics, Webmaster Tools and other paid/non-paid tools
+Social Media Optimization
+SEO on WordPress
+Monetizing Website – AdSense
+
+Result: Certified
+
+Diploma-In Computer Hardware Engineering (One Year)
+Institute : Microware Computers and Electronics (MCE Ltd.)
+Course Summary:
+
+Computer Architecture
+
+Electronics
+
+Hardware Maintenance and Troubleshooting
+
+Windows based Networking
+
+Software & Operating System
+
+Internet Technologies
+
+Business Applications [MS Office]
+Year
+: 2005
+Result : “A” Grade
+
+2
+
+____________________________________________________________________________________
+
+Specialized ICT Education
+CCNA (Cisco Certified Network Associate)
+Institute : Daffodil International University
+Year
+: 2007
+Result : Scored 974 out of 1000. Both Cisco Local Academy and Vendor Certified [Cisco ID:
+CSCO11329072]
+
+Linux+ With ISP Setup
+Institute : Praxis Training Technology and Consultancy, Kalabagan, Dhaka.
+Year
+: 2008
+Result : Passed
+
+RHCE (Red Hat Certified Engineer):
+Institute : Daffodil International University
+Year
+: 2009
+Result : Internal exam passed
+
+Academic Qualifications
+Secondary School Certificate
+Group
+Result
+Obtained Marks:
+Year
+Institute
+Board
+
+: Science
+: 1st Division
+: 722
+: 1995
+: Kamalapur School and College
+: Dhaka Board
+
+Higher Secondary Certificate
+Group
+Result
+Obtained Marks
+Year
+Institute
+Board
+
+: Science
+: 2nd Division
+: 533
+: 2000
+: Tejgaon College
+: Dhaka
+
+Bachelor of Social Science (Pass)
+Year
+Result
+Obtained Marks
+Institute
+University
+
+: 2002
+: 2nd Class
+: 502
+: Habibullah Bahar University College, Dhaka.
+: National University
+
+3
+
+____________________________________________________________________________________
+
+Working Experience
+Name of Organization
+Organization Overview
+Position
+Responsibilities
+
+: Doreen Power Generations and Systems Limited
+: One of the largest Power generation group companies in Bangladesh.
+: System Administrator and Acting Head, ICT Department.
+: To maintain IT Infrastructure, maintain Security System, maintain Software,
+Surveillance System, maintain MIS Application, configure Wifi Router; Access Point,
+handle IT Equipment, support office end-users, handle vendor issues, handle IT
+procurement, maintain company website and perform all other IT tasks assigned by the
+company top Management.
+
+Duration
+
+: 1st December, 2024 to 30th April, 2025.
+
+Name of Organization
+Organization Overview
+Position
+Responsibilities
+
+: Uttara Finance and Investments Limited
+: A renowned financial institution of Uttara Group of Companies.
+: Officer, ICT Department.
+: To maintain IT Infrastructure and NOC, maintain Business Software, handle IT
+Equipment, support office end-users, handle vendor issues, maintain company website
+and perform all other IT management tasks.
+
+Duration
+
+: 2nd Feb 2020 to November 30, 2024.
+
+Name of Organization
+Organization Overview
+Position
+Responsibilities
+
+: Times Securities Ltd.
+: A Concern of S. Alam Group that deals with Stock Market.
+: Executive & In-Charge, ICT Division.
+: To maintain IT Infrastructure, operate Database and Back-office Software (XBroker),
+handle IT Equipment, Business Server and vendor issues, maintain company website
+and perform all other IT management tasks.
+
+Duration
+
+: 19th January, 2017 to 20thOctober, 2019.
+
+Name of Organization
+Organization Overview
+Position
+Responsibilities
+
+: Multi Securities and Services Ltd.
+: Group Company and leading securities firm of DSE and CSE.
+: Executive, ICT Department.
+: To maintain IT Infrastructure, operate Database and Back-office Software, handle IT
+Equipment, Windows 20008 Business Server, vendor issues, maintain company website
+and perform all otherIT management tasks.
+
+Duration
+
+: 1st November 2010 to Dec 28, 2016.
+
+Name of Organization : Cashlink Bangladesh Limited, AB Bank.
+Organization Overview : A world-class hardware equipped Banking Data Center owned by AB Bank Ltd
+and technically backed by Euronet Worldwide India Pvt.
+Position
+: IT Infrastructure Management Officer.
+Responsibilities
+: To maintain and troubleshootData Network, Handle Data Center operations,
+handle IT Equipment, vendor issues and supportOffice End Users.
+Duration
+
+: 1st June, 2008 to 28th October, 2010.
+
+4
+
+____________________________________________________________________________________
+
+Working Experience
+Name of Organization
+Organization Overview
+Address
+Position
+Responsibilities
+Duration
+
+: Reve Systems
+: Internationally renowned software solutions company.
+:308/C, Malibagh Chowdhury Para, Dhaka-1219, Bangladesh.
+: Support Executive (NOC)
+: To manage Data Center, monitor VOIP Operations and support Office End-users.
+:1st June, 2005 to 2nd May, 2008
+
+Extra-Curricular Activities: Amateur Western Classical Violin Performer. Certified in ABRSM Board, UK.
+
+Personal Information
+Father’s Name
+
+: Sardar Nesaruddin
+
+Mother’s Name
+
+: Kohinoor Begum
+
+Present Address
+
+: House-173/Cha (2nd Floor), East Rampura, Dhaka-1219.
+
+Permanent Address
+
+: Vill. + P.O: Datterabad, PS: Agailzhara, Dist: Barishal.
+
+Contact Number
+
+: 01794-505346
+
+Date of Birth
+
+: 8th September, 1980
+
+Nationality
+
+: Bangladeshi by birth
+
+Religion
+
+: Islam (Sunni)
+
+Marital Status
+
+: Unmarried
+
+Signature:
+Date:
+
+References:
+Syed Ariful Bari,
+Designation: SAVP & Head of Database,
+Institution: Al-Arafah Islami Bank Limited
+Cell: 01911110974
+Wahida Begum
+Cell: 01842088899
+Designation: General Manager [HR Division, Head Office]
+Institution: Rupali Bank Limited.
+
+5
+
+
