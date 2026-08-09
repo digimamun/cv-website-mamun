@@ -1,6 +1,6 @@
 # Professional CV Website
 
-This is a modern, responsive CV website for Mohammad Sardar Mamun.
+This is a modern, responsive CV website created by LLM for Mohammad Sardar Mamun.
 
 ## Files
 - `index.html` — landing page with CV content and contact details
